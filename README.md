@@ -1,4 +1,4 @@
-# Rocco
+## Rocco
 
 # Linguaggi
 Python · Rust · Shell · C
