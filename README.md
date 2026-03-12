@@ -20,6 +20,9 @@ Python · Rust · Shell · C
 - **serum_builder** — generatore CLI di preset .fxp per Serum VST
   a partire da funzioni matematiche, modulazioni ed envelope
 
+- **ftui** — client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP),
+  alternativa da terminale a FileZilla 
+
 - **grrs** — tool CLI tipo grep scritto in Rust,
   con supporto regex, ricerca ricorsiva e output colorato
 
