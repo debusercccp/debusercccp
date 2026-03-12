@@ -1,7 +1,7 @@
 # Rocco
 
 ## Linguaggi
-Python · Rust · Shell · C
+Python · Rust · Shell · Nix 
 
 ## Progetti
 
@@ -28,7 +28,7 @@ Python · Rust · Shell · C
 
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
-- **neural-lib** — contiene librerie personalizzate di deep learning in python e in rust (PRIVATO)
+- **neural-lib** — contiene librerie personalizzate di deep learning in python e in rust
 
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
 
