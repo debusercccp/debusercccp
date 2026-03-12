@@ -1,16 +1,15 @@
-## Hi there 👋
+# Rocco
 
-<!--
-**debusercccp/debusercccp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sviluppatore con interessi in ML, bioinformatica e sistemi embedded.
 
-Here are some ideas to get you started:
+## Linguaggi
+Python · Rust · Shell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progetti
+- **RFCellClassificator** — classificazione tipi cellulari con Random Forest (AnnData, Scanpy)
+- **convFqFa** — conversione FASTQ→FASTA in Python e Rust
+- **serum_builder** — generatore di preset VST per Serum da codice
+- **raspyDisplay** — monitor di sistema su display TFT per Raspberry Pi
+
+## Interessi
+Bioinformatica · Single-cell genomics · Audio DSP · Embedded Linux
