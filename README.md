@@ -6,10 +6,29 @@ Sviluppatore con interessi in ML, bioinformatica e sistemi embedded.
 Python · Rust · Shell
 
 ## Progetti
-- **RFCellClassificator** — classificazione tipi cellulari con Random Forest (AnnData, Scanpy)
-- **convFqFa** — conversione FASTQ→FASTA in Python e Rust
-- **serum_builder** — generatore di preset VST per Serum da codice
-- **raspyDisplay** — monitor di sistema su display TFT per Raspberry Pi
+
+- **RFCellClassificator** — classificazione tipi cellulari con Random Forest,
+  interfaccia TUI colorata, supporto AnnData/Scanpy/CELLxGENE
+
+- **convFqFa** — conversione FASTQ→FASTA implementata in Python e Rust,
+  con batch processing via Bash per dataset genomici di grandi dimensioni
+
+- **progettoBlast** — local alignment di sequenze DNA con algoritmo Smith-Waterman,
+  ottimizzato per Raspberry Pi con interfaccia TUI
+
+- **CNN_U-Net** — segmentazione immagini con architettura U-Net
+  implementata sia in PyTorch che TensorFlow, con supporto Docker
+
+- **serum_builder** — generatore CLI di preset .fxp per Serum VST
+  a partire da funzioni matematiche, modulazioni ed envelope
+
+- **raspyDisplay** — monitor di sistema su display TFT SPI per Raspberry Pi,
+  con autorilevamento hardware e demone systemd
+
+- **grrs** — tool CLI tipo grep scritto in Rust,
+  con supporto regex, ricerca ricorsiva e output colorato
+
+- **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
 ## Interessi
 Bioinformatica · Single-cell genomics · Audio DSP · Embedded Linux
