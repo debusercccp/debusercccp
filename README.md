@@ -28,7 +28,7 @@ Python · Rust · Shell · C
 
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
-- **neural-lib** — contiene librerie di deep learning in python e in rust (#PRIVATO)
+- **neural-lib** — contiene librerie personalizzate di deep learning in python e in rust (PRIVATO)
 
 ## Interessi
 Bioinformatica · Single-cell genomics · Audio DSP · Embedded Linux
