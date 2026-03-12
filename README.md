@@ -24,13 +24,13 @@ Python · Rust · Shell · C
 
 Alcuni progetti sono sviluppati sotto l'organizzazione [raspate](https://github.com/raspate):
 
-  - **raspyDisplay** — monitor di sistema su display TFT SPI per Raspberry Pi,
+    - **raspyDisplay** — monitor di sistema su display TFT SPI per Raspberry Pi,
     con autorilevamento hardware e demone systemd
   
-  - **raspyWeb** — web server HTTPS asincrono in Rust su Raspberry Pi 5,
+    - **raspyWeb** — web server HTTPS asincrono in Rust su Raspberry Pi 5,
     con Axum + Caddy + DuckDNS. Live quando il rpi è acceso: https://raspyrust.duckdns.org
 
-  - **raspyVideo** — sistema di face detection distribuito su due Raspberry Pi
+    - **raspyVideo** — sistema di face detection distribuito su due Raspberry Pi
     collegati via TCP socket, con OpenCV e display TFT
 
 - **grrs** — tool CLI tipo grep scritto in Rust,
