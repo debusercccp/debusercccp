@@ -1,9 +1,9 @@
-## Rocco
+# Rocco
 
-# Linguaggi
+## Linguaggi
 Python · Rust · Shell · C
 
-# Progetti
+## Progetti
 
 - **RFCellClassificator** — classificazione tipi cellulari con Random Forest,
   interfaccia TUI colorata, supporto AnnData/Scanpy/CELLxGENE
@@ -28,5 +28,5 @@ Python · Rust · Shell · C
 
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
-# Interessi
+## Interessi
 Bioinformatica · Single-cell genomics · Audio DSP · Embedded Linux
