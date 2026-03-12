@@ -27,9 +27,7 @@ Python · Rust · Shell · C
 
 - **neural-lib** — contiene librerie personalizzate di deep learning in python e in rust (PRIVATO)
 
-## Organizzazione
-
-Alcuni progetti sono sviluppati sotto l'organizzazione [raspate](https://github.com/raspate):
+I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
 
    - **raspyDisplay** — monitor di sistema su display TFT SPI per Raspberry Pi,
     con autorilevamento hardware e demone systemd
