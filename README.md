@@ -1,9 +1,7 @@
 # Rocco
 
-Sviluppatore con interessi in ML, bioinformatica e sistemi embedded.
-
 ## Linguaggi
-Python · Rust · Shell
+Python · Rust · Shell · C
 
 ## Progetti
 
