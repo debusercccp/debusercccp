@@ -28,7 +28,7 @@ Python · Rust · Shell · Nix
 
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
-- **neural-lib** — contiene librerie personalizzate di deep learning in python e in rust
+- **neural-lib** — contiene librerie personalizzate di deep learning in Python e in Rust
 
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
 
