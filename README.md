@@ -20,6 +20,8 @@ Python · Rust · Shell · Nix
 - **serum_builder** — generatore CLI di preset .fxp per Serum VST
   a partire da funzioni matematiche, modulazioni ed envelope
 
+- **Music-gen** — generatore musicale procedurale con TUI ed esportazione MIDI
+
 - **ftui** — client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP),
   alternativa da terminale a FileZilla 
 
@@ -43,4 +45,4 @@ I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github
 
 
 ## Interessi
-Bioinformatica · Single-cell genomics · Audio DSP · Embedded Linux
+Bioinformatica · Linux · Raspberry · Music 
