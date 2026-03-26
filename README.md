@@ -22,8 +22,6 @@ Python · Rust · Shell · Nix
 - **ftui** — client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP), alternativa da terminale a FileZilla 
 
 - **grrs** — tool CLI tipo grep scritto in Rust, con supporto regex, ricerca ricorsiva e output colorato
-
-- **ohenc-rs** — tool CLI scritto in Rust che fa una one hot encoding per un dataset formato csv
   
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
