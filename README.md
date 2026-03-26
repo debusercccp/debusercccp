@@ -23,6 +23,8 @@ Python · Rust · Shell · Nix
 
 - **grrs** — tool CLI tipo grep scritto in Rust, con supporto regex, ricerca ricorsiva e output colorato
 
+- **ohenc-rs** — tool CLI scritto in Rust che fa una one hot encoding per un dataset formato csv
+  
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
