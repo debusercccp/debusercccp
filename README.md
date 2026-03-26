@@ -23,6 +23,8 @@ Python · Rust · Shell · Nix
 
 - **grrs** — tool CLI tipo grep scritto in Rust, con supporto regex, ricerca ricorsiva e output colorato
   
+- **libNN** - libreria per reti neurali in Python 
+
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
