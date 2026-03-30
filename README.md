@@ -27,6 +27,8 @@ Python · Rust · Shell · Nix
 
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
 
+- **Panther** — classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
+
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
 
    - **raspyDisplay** — monitor di sistema su display TFT SPI per Raspberry Pi, con autorilevamento hardware e demone systemd
