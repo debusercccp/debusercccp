@@ -15,6 +15,8 @@ Python · Rust · Shell · Nix
 
 - **CNN_U-Net** — segmentazione immagini con architettura U-Net implementata sia in PyTorch che TensorFlow, con supporto Docker
 
+- **PantherTUI** — classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
+
 - **serum_builder** — generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
 
 - **Music-gen** — generatore musicale procedurale con TUI ed esportazione MIDI
@@ -26,8 +28,6 @@ Python · Rust · Shell · Nix
 - **libNN** - libreria per reti neurali in Python 
 
 - **myconfig** — dotfiles NixOS con Neovim, Kitty, Waybar
-
-- **Panther** — classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
 
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
 
