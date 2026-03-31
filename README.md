@@ -13,8 +13,6 @@ Python · Rust · Shell · Nix
 
 - **progettoBlast** — local alignment di sequenze DNA con algoritmo Smith-Waterman, ottimizzato per Raspberry Pi con interfaccia TUI
 
-- **CNN_U-Net** — segmentazione immagini con architettura U-Net implementata sia in PyTorch che TensorFlow, con supporto Docker
-
 - **PantherTUI** — classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
 
 - **serum_builder** — generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
