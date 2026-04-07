@@ -11,8 +11,6 @@ Python · Rust · Shell · Nix
 
 - **BioToolKit** — Implementazione Python dei principali algoritmi descritti in "Bioinformatics Algorithms: An Active Learning Approach" di Compeau & Pevzner. 
 
-- **progettoBlast** — local alignment di sequenze DNA con algoritmo Smith-Waterman, ottimizzato per Raspberry Pi con interfaccia TUI
-
 - **PantherTUI** — classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
 
 - **serum_builder** — generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
