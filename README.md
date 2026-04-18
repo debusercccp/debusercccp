@@ -15,6 +15,8 @@ Bioinformatica e Data Science
 
 - **PantherTUI** classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
 
+- **sqlViewer** visualizzatore query sql e export in csv
+
 Audio e Musica
 
 - **serum_builder** generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
