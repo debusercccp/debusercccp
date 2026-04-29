@@ -22,6 +22,8 @@ Audio e Musica
 - **serum_builder** generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
 
 - **Music-gen** generatore musicale procedurale con TUI ed esportazione MIDI
+
+- **BirdPatternClass** identifica pattern dei cinguetii degli uccelli con un transformer
  
 Utility e Strumenti di Sistema
 
