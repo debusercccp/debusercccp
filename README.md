@@ -35,6 +35,10 @@ Utility e Strumenti di Sistema
 
 - **myconfig** dotfiles NixOS con Neovim, Kitty, Waybar
 
+Non-Utility
+
+- **nulla** implementazione in rust, c e pyhton di uno script che non fa assolutamente nulla
+
 I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
 
    - **raspyDisplay** monitor di sistema su display TFT SPI per Raspberry Pi, con autorilevamento hardware e demone systemd
