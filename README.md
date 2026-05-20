@@ -1,53 +1,53 @@
-# Rocco
+Rocco a.k.a. Noya
 
-## Linguaggi
-Python · Rust · Shell · Nix 
+Linguaggi
 
-## Progetti
+Python · Rust · Shell · Nix
+Progetti
 
 Bioinformatica e Data Science
 
-- **RFCellClassificator** classificazione tipi cellulari con Random Forest, interfaccia TUI colorata, supporto AnnData/Scanpy/CELLxGENE
+    [RFCellClassificator](https://github.com/debusercccp/RFCellClassificator) classificazione tipi cellulari con Random Forest, interfaccia TUI colorata, supporto AnnData/Scanpy/CELLxGENE
 
-- **convFqFa** conversione FASTQ→FASTA implementata in Python e Rust, con batch processing via Bash per dataset genomici di grandi dimensioni
+    [convFqFa](https://github.com/debusercccp/convFqFa) conversione FASTQ→FASTA implementata in Python e Rust, con batch processing via Bash per dataset genomici di grandi dimensioni
 
-- **BioToolKit** Implementazione Python dei principali algoritmi descritti in "Bioinformatics Algorithms: An Active Learning Approach" di Compeau & Pevzner. 
+    [BioToolKit](https://github.com/debusercccp/BioToolKit) Implementazione Python dei principali algoritmi descritti in "Bioinformatics Algorithms: An Active Learning Approach" di Compeau & Pevzner.
 
-- **PantherTUI** classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
+    [PantherTUI](https://github.com/debusercccp/PantherTUI) classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
 
-- **sqlViewer** visualizzatore query sql e export in csv
+    [sqlViewer](https://github.com/debusercccp/sqlViewer) visualizzatore query sql e export in csv
 
 Audio e Musica
 
-- **serum_builder** generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
+    [serum_builder](https://github.com/debusercccp/serum_builder) generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
 
-- **Music-gen** generatore musicale procedurale con TUI ed esportazione MIDI
+    [Music-gen](https://github.com/debusercccp/Music-gen) generatore musicale procedurale con TUI ed esportazione MIDI
 
-- **BirdPatternClass** identifica pattern dei cinguetii degli uccelli con un transformer
- 
+    [BirdPatternClass](https://github.com/debusercccp/BirdPatternClass) identifica pattern dei cinguetii degli uccelli con un transformer
+
 Utility e Strumenti di Sistema
 
-- **ftui** client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP), alternativa da terminale a FileZilla 
+    [ftui](https://github.com/debusercccp/ftui) client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP), alternativa da terminale a FileZilla
 
-- **grrs** tool CLI tipo grep scritto in Rust, con supporto regex, ricerca ricorsiva e output colorato
-  
-- **libNN** libreria per reti neurali in Python 
+    [grrs](https://github.com/debusercccp/grrs) tool CLI tipo grep scritto in Rust, con supporto regex, ricerca ricorsiva e output colorato
 
-- **myconfig** dotfiles NixOS con Neovim, Kitty, Waybar
+    [libNN](https://github.com/debusercccp/libNN) libreria per reti neurali in Python
 
-- **myconfig-nix** Configurazione dichiarativa e riproducibile (Nix Flakes + Home Manager) 
+    [myconfig](https://github.com/debusercccp/myconfig) dotfiles NixOS con Neovim, Kitty, Waybar
+
+    [myconfig-nix](https://github.com/debusercccp/myconfig-nix) Configurazione dichiarativa e riproducibile (Nix Flakes + Home Manager)
 
 Non-Utility
 
-- **nulla** implementazione in rust, c e pyhton di uno script che non fa assolutamente nulla
+    [nulla](https://github.com/debusercccp/nulla) implementazione in rust, c e pyhton di uno script che non fa assolutamente nulla
 
-I progetti Raspberry Pi sono raggruppati sotto il topic [`raspy`](https://github.com/debusercccp?tab=repositories&q=raspy)
+I progetti Raspberry Pi sono raggruppati sotto il topic raspy
 
-   - **raspyDisplay** monitor di sistema su display TFT SPI per Raspberry Pi, con autorilevamento hardware e demone systemd
-  
-   - **raspyWeb** web server HTTPS asincrono in Rust su Raspberry Pi 5, con Axum + Caddy + DuckDNS. Live quando il rpi è acceso: https://raspyrust.duckdns.org
+    [raspyDisplay](https://github.com/debusercccp/raspyDisplay) monitor di sistema su display TFT SPI per Raspberry Pi, con autorilevamento hardware e demone systemd
 
-   - **raspyVideo** sistema di face detection distribuito su due Raspberry Pi collegati via TCP socket, con OpenCV e display TFT
+    [raspyWeb](https://github.com/debusercccp/raspyWeb) web server HTTPS asincrono in Rust su Raspberry Pi 5, con Axum + Caddy + DuckDNS. Live quando il rpi è acceso: https://raspyrust.duckdns.org
 
-## Interessi
-Bioinformatica · Linux · Raspberry · Music 
+    [raspyVideo](https://github.com/debusercccp/raspyVideo) sistema di face detection distribuito su due Raspberry Pi collegati via TCP socket, con OpenCV e display TFT
+
+Interessi
+Bioinformatica · Linux · Raspberry · Music
