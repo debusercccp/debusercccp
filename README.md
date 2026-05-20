@@ -1,10 +1,10 @@
 [Rocco a.k.a. Noya](https://github.com/debusercccp)
 
-Linguaggi
+**Linguaggi**
 
 [Python](https://github.com/debusercccp?tab=repositories&q=&type=&language=python) · [Rust](https://github.com/debusercccp?tab=repositories&q=&type=&language=rust) · [Shell](https://github.com/debusercccp?tab=repositories&q=&type=&language=shell) · [Nix](https://github.com/debusercccp?tab=repositories&q=&type=&language=nix) Progetti
 
-Bioinformatica e Data Science
+**Bioinformatica e Data Science**
 
 [RFCellClassificator](https://github.com/debusercccp/RFCellClassificator) classificazione tipi cellulari con Random Forest, interfaccia TUI colorata, supporto AnnData/Scanpy/CELLxGENE
 
@@ -16,7 +16,7 @@ Bioinformatica e Data Science
 
 [sqlViewer](https://github.com/debusercccp/sqlViewer) visualizzatore query sql e export in csv
 
-Audio e Musica
+**Audio e Musica**
 
 [serum_builder](https://github.com/debusercccp/serum_builder) generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
 
@@ -24,7 +24,7 @@ Audio e Musica
 
 [BirdPatternClass](https://github.com/debusercccp/BirdPatternClass) identifica pattern dei cinguetii degli uccelli con un transformer
 
-Utility e Strumenti di Sistema
+**Utility e Strumenti di Sistema**
 
 [ftui](https://github.com/debusercccp/ftui) client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP), alternativa da terminale a FileZilla
 
@@ -36,7 +36,7 @@ Utility e Strumenti di Sistema
 
 [myconfig-nix](https://github.com/debusercccp/myconfig-nix) Configurazione dichiarativa e riproducibile (Nix Flakes + Home Manager)
 
-Non-Utility
+**Non-Utility**
 
 [nulla](https://github.com/debusercccp/nulla) implementazione in rust, c e pyhton di uno script che non fa assolutamente nulla
 
@@ -48,4 +48,6 @@ I progetti Raspberry Pi sono raggruppati sotto il topic raspy
 
 [raspyVideo](https://github.com/debusercccp/raspyVideo) sistema di face detection distribuito su due Raspberry Pi collegati via TCP socket, con OpenCV e display TFT
 
-Interessi [Bioinformatica](https://github.com/debusercccp?tab=repositories&q=bio) · [Linux](https://github.com/debusercccp/myconfig-nix) · [Raspberry](https://github.com/debusercccp?tab=repositories&q=raspy) · [Music](https://github.com/debusercccp/Music-gen)
+**Interessi**
+
+[Bioinformatica](https://github.com/debusercccp?tab=repositories&q=bio) · [Linux](https://github.com/debusercccp/myconfig-nix) · [Raspberry](https://github.com/debusercccp?tab=repositories&q=raspy) · [Music](https://github.com/debusercccp/Music-gen)
