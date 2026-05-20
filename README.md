@@ -35,6 +35,8 @@ Utility e Strumenti di Sistema
 
 - **myconfig** dotfiles NixOS con Neovim, Kitty, Waybar
 
+- **myconfig-nix** Configurazione dichiarativa e riproducibile (Nix Flakes + Home Manager) 
+
 Non-Utility
 
 - **nulla** implementazione in rust, c e pyhton di uno script che non fa assolutamente nulla
