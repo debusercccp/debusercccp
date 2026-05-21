@@ -1,4 +1,4 @@
-[Rocco a.k.a. Noya](https://github.com/debusercccp)
+Rocco a.k.a. noya
 
 **Linguaggi**
 
