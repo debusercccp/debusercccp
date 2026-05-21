@@ -50,4 +50,4 @@ I progetti Raspberry Pi sono raggruppati sotto il topic raspy
 
 **Interessi**
 
-Bioinformatica · Linux · [Raspberry](https://github.com/debusercccp?tab=repositories&q=raspy) · Music
+Bioinformatica · Linux · Raspberry · Music
