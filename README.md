@@ -24,6 +24,9 @@ Python · Rust · Shell · Nix
 
 -   **[BirdPatternClass](https://github.com/debusercccp/BirdPatternClass)** identifica pattern dei cinguetii degli uccelli con un transformer
 
+-
+**[acidBadd](https://github.com/debusercccp/acidBadd)** emula la Roland 303
+
 **Utility e Strumenti di Sistema**
 
 -   **[ftui](https://github.com/debusercccp/ftui)** client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP), alternativa da terminale a FileZilla
