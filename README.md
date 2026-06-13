@@ -24,8 +24,7 @@ Python · Rust · Shell · Nix
 
 -   **[BirdPatternClass](https://github.com/debusercccp/BirdPatternClass)** identifica pattern dei cinguetii degli uccelli con un transformer
 
--
-**[acidBadd](https://github.com/debusercccp/acidBadd)** emula la Roland 303
+-   **[Rolly303](https://github.com/debusercccp/Rolly303)** emulatore della famosa Roland 303
 
 **Utility e Strumenti di Sistema**
 
