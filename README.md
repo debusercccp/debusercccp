@@ -1,55 +1,68 @@
-Rocco a.k.a. noya
+<h1 align="center">Rocco · <code>noya</code></h1>
 
-**Linguaggi**
+<p align="center">
+  Bioinformatica · Data Science · Sistemi Linux · Audio
+</p>
 
-Python · Rust · Shell · Nix 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
+</p>
 
-**Bioinformatica e Data Science**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debusercccp&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debusercccp&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="165" />
+</p>
 
--   **[RFCellClassificator](https://github.com/debusercccp/RFCellClassificator)** classificazione tipi cellulari con Random Forest, interfaccia TUI colorata, supporto AnnData/Scanpy/CELLxGENE
+---
 
--   **[convFqFa](https://github.com/debusercccp/convFqFa)** conversione FASTQ→FASTA implementata in Python e Rust, con batch processing via Bash per dataset genomici di grandi dimensioni
+### 🧬 Bioinformatica & Data Science
 
--   **[BioToolKit](https://github.com/debusercccp/BioToolKit)** Implementazione Python dei principali algoritmi descritti in "Bioinformatics Algorithms: An Active Learning Approach" di Compeau & Pevzner.
+| Progetto | Descrizione |
+| --- | --- |
+| **[RFCellClassificator](https://github.com/debusercccp/RFCellClassificator)** | Classificazione di tipi cellulari con Random Forest · TUI colorata · supporto AnnData / Scanpy / CELLxGENE |
+| **[convFqFa](https://github.com/debusercccp/convFqFa)** | Conversione FASTQ → FASTA in Python e Rust, con batch processing Bash per dataset genomici di grandi dimensioni |
+| **[BioToolKit](https://github.com/debusercccp/BioToolKit)** | Implementazione Python dei principali algoritmi di *"Bioinformatics Algorithms: An Active Learning Approach"* (Compeau & Pevzner) |
+| **[PantherTUI](https://github.com/debusercccp/PantherTUI)** | Classificatore di famiglie proteiche PANTHER · rete neurale profonda (MLP, 15k+ classi) · TUI · ottimizzato per Raspberry Pi |
+| **[sqlViewer](https://github.com/debusercccp/sqlViewer)** | Visualizzatore di query SQL con export in CSV |
 
--   **[PantherTUI](https://github.com/debusercccp/PantherTUI)** classificatore di famiglie proteiche PANTHER con rete neurale profonda (MLP, 15k+ classi), interfaccia TUI, ottimizzato per Raspberry Pi
+### 🎵 Audio & Musica
 
--   **[sqlViewer](https://github.com/debusercccp/sqlViewer)** visualizzatore query sql e export in csv
+| Progetto | Descrizione |
+| --- | --- |
+| **[serum_builder](https://github.com/debusercccp/serum_builder)** | Generatore CLI di preset `.fxp` per Serum VST a partire da funzioni matematiche, modulazioni ed envelope |
+| **[Music-gen](https://github.com/debusercccp/Music-gen)** | Generatore musicale procedurale con TUI ed esportazione MIDI |
+| **[BirdPatternClass](https://github.com/debusercccp/BirdPatternClass)** | Identificazione dei pattern dei cinguettii degli uccelli tramite Transformer |
+| **[Rolly303](https://github.com/debusercccp/Rolly303)** | Emulatore della celebre Roland TB-303 |
 
-**Audio e Musica**
+### 🛠️ Utility & Strumenti di Sistema
 
--   **[serum_builder](https://github.com/debusercccp/serum_builder)** generatore CLI di preset .fxp per Serum VST a partire da funzioni matematiche, modulazioni ed envelope
+| Progetto | Descrizione |
+| --- | --- |
+| **[ftui](https://github.com/debusercccp/ftui)** | Client TUI per trasferimenti file (FTP / FTPS / SFTP / SCP) · alternativa da terminale a FileZilla |
+| **[grrs](https://github.com/debusercccp/grrs)** | Tool CLI tipo `grep` scritto in Rust · regex · ricerca ricorsiva · output colorato |
+| **[libNN](https://github.com/debusercccp/libNN)** | Libreria per reti neurali in Python |
+| **[myconfig](https://github.com/debusercccp/myconfig)** | Dotfiles NixOS · Neovim · Kitty · Waybar |
+| **[myconfig-nix](https://github.com/debusercccp/myconfig-nix)** | Configurazione dichiarativa e riproducibile · Nix Flakes + Home Manager |
 
--   **[Music-gen](https://github.com/debusercccp/Music-gen)** generatore musicale procedurale con TUI ed esportazione MIDI
+### 🍓 Raspberry Pi <sub>(topic `raspy`)</sub>
 
--   **[BirdPatternClass](https://github.com/debusercccp/BirdPatternClass)** identifica pattern dei cinguetii degli uccelli con un transformer
+| Progetto | Descrizione |
+| --- | --- |
+| **[raspyDisplay](https://github.com/debusercccp/raspyDisplay)** | Monitor di sistema su display TFT SPI · autorilevamento hardware · demone systemd |
+| **[raspyWeb](https://github.com/debusercccp/raspyWeb)** | Web server HTTPS asincrono in Rust su Raspberry Pi 5 · Axum + Caddy + DuckDNS · live → [raspyrust.duckdns.org](https://raspyrust.duckdns.org) |
+| **[raspyVideo](https://github.com/debusercccp/raspyVideo)** | Face detection distribuito su due Raspberry Pi via TCP socket · OpenCV · display TFT |
 
--   **[Rolly303](https://github.com/debusercccp/Rolly303)** emulatore della famosa Roland 303
+### 🌀 Non-Utility
 
-**Utility e Strumenti di Sistema**
+| Progetto | Descrizione |
+| --- | --- |
+| **[nulla](https://github.com/debusercccp/nulla)** | Implementazione in Rust, C e Python di uno script che non fa assolutamente nulla |
 
--   **[ftui](https://github.com/debusercccp/ftui)** client TUI per trasferimenti file (FTP/FTPS/SFTP/SCP), alternativa da terminale a FileZilla
+---
 
--   **[grrs](https://github.com/debusercccp/grrs)** tool CLI tipo grep scritto in Rust, con supporto regex, ricerca ricorsiva e output colorato
-
--   **[libNN](https://github.com/debusercccp/libNN)** libreria per reti neurali in Python
-
--   **[myconfig](https://github.com/debusercccp/myconfig)** dotfiles NixOS con Neovim, Kitty, Waybar
-
--   **[myconfig-nix](https://github.com/debusercccp/myconfig-nix)** Configurazione dichiarativa e riproducibile (Nix Flakes + Home Manager)
-
-**Non-Utility**
-
--   **[nulla](https://github.com/debusercccp/nulla)** implementazione in rust, c e pyhton di uno script che non fa assolutamente nulla
-
-I progetti Raspberry Pi sono raggruppati sotto il topic raspy
- 
--   **[raspyDisplay](https://github.com/debusercccp/raspyDisplay)** monitor di sistema su display TFT SPI per Raspberry Pi, con autorilevamento hardware e demone systemd
-
--   **[raspyWeb](https://github.com/debusercccp/raspyWeb)** web server HTTPS asincrono in Rust su Raspberry Pi 5, con Axum + Caddy + DuckDNS. Live quando il rpi è acceso: https://raspyrust.duckdns.org
-
--   **[raspyVideo](https://github.com/debusercccp/raspyVideo)** sistema di face detection distribuito su due Raspberry Pi collegati via TCP socket, con OpenCV e display TFT
-
-**Interessi**
-
-Bioinformatica · Linux · Raspberry · Music
+<p align="center">
+  <strong>Interessi:</strong> Bioinformatica · Linux · Raspberry Pi · Musica
+</p>
