@@ -25,8 +25,7 @@
 | **[RFCellClassificator](https://github.com/debusercccp/RFCellClassificator)** | Classificazione di tipi cellulari con Random Forest · TUI colorata · supporto AnnData / Scanpy / CELLxGENE |
 | **[convFqFa](https://github.com/debusercccp/convFqFa)** | Conversione FASTQ → FASTA in Python e Rust, con batch processing Bash per dataset genomici di grandi dimensioni |
 | **[BioToolKit](https://github.com/debusercccp/BioToolKit)** | Implementazione Python dei principali algoritmi di *"Bioinformatics Algorithms: An Active Learning Approach"* (Compeau & Pevzner) |
-| **[PantherTUI](https://github.com/debusercccp/PantherTUI)** | Classificatore di famiglie proteiche PANTHER · rete neurale profonda (MLP, 15k+ classi) · TUI · ottimizzato per Raspberry Pi |
-| **[sqlViewer](https://github.com/debusercccp/sqlViewer)** | Visualizzatore di query SQL con export in CSV |
+| **[PantherCLI](https://github.com/debusercccp/PantherTUI)** | Classificatore di famiglie proteiche PANTHER · rete neurale profonda (MLP, 15k+ classi) · TUI · ottimizzato per Raspberry Pi |
 
 ### 🎵 Audio & Musica
 
@@ -46,7 +45,8 @@
 | **[libNN](https://github.com/debusercccp/libNN)** | Libreria per reti neurali in Python |
 | **[myconfig](https://github.com/debusercccp/myconfig)** | Dotfiles NixOS · Neovim · Kitty · Waybar |
 | **[myconfig-nix](https://github.com/debusercccp/myconfig-nix)** | Configurazione dichiarativa e riproducibile · Nix Flakes + Home Manager |
-
+| **[aeroMessenger](https://github.com/debusercccp/aeroMessenger)** | Client desktop WhatsApp in stile **Frutiger Aero** · Electron + `whatsapp-web.js` · modifica/elimina messaggi, auto-refresh, turnover messaggi · launcher Wayland/X11 |
+ 
 ### 🍓 Raspberry Pi <sub>(topic `raspy`)</sub>
 
 | Progetto | Descrizione |
