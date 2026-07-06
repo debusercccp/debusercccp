@@ -14,15 +14,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debusercccp&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debusercccp&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debusercccp&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## Progetti
