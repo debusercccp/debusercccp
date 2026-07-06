@@ -1,7 +1,9 @@
-<h1 align="center">Rocco · <code>noya</code></h1>
+<h1 align="center">Ciao, sono Rocco</h1>
+<h3 align="center"><code>noya</code> · Bioinformatica · Data Science · Sistemi Linux · Audio</h3>
 
 <p align="center">
-  Bioinformatica · Data Science · Sistemi Linux · Audio
+  Sviluppo strumenti da terminale e librerie per l'analisi dati biologici,<br />
+  sistemi embedded su Raspberry Pi e software musicale generativo.
 </p>
 
 <p align="center">
@@ -9,6 +11,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <p align="center">
@@ -16,9 +19,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debusercccp&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debusercccp&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 
-### 🧬 Bioinformatica & Data Science
+## Progetti
+
+### Bioinformatica & Data Science
 
 | Progetto | Descrizione |
 | --- | --- |
@@ -27,7 +36,7 @@
 | **[BioToolKit](https://github.com/debusercccp/BioToolKit)** | Implementazione Python dei principali algoritmi di *"Bioinformatics Algorithms: An Active Learning Approach"* (Compeau & Pevzner) |
 | **[PantherCLI](https://github.com/debusercccp/PantherTUI)** | Classificatore di famiglie proteiche PANTHER · rete neurale profonda (MLP, 15k+ classi) · TUI · ottimizzato per Raspberry Pi |
 
-### 🎵 Audio & Musica
+### Audio & Musica
 
 | Progetto | Descrizione |
 | --- | --- |
@@ -36,7 +45,7 @@
 | **[BirdPatternClass](https://github.com/debusercccp/BirdPatternClass)** | Identificazione dei pattern dei cinguettii degli uccelli tramite Transformer |
 | **[Rolly303](https://github.com/debusercccp/Rolly303)** | Emulatore della celebre Roland TB-303 |
 
-### 🛠️ Utility & Strumenti di Sistema
+### Utility & Strumenti di Sistema
 
 | Progetto | Descrizione |
 | --- | --- |
@@ -46,8 +55,8 @@
 | **[myconfig](https://github.com/debusercccp/myconfig)** | Dotfiles NixOS · Neovim · Kitty · Waybar |
 | **[myconfig-nix](https://github.com/debusercccp/myconfig-nix)** | Configurazione dichiarativa e riproducibile · Nix Flakes + Home Manager |
 | **[aeroMessenger](https://github.com/debusercccp/aeroMessenger)** | Client desktop WhatsApp in stile **Frutiger Aero** · Electron + `whatsapp-web.js` · modifica/elimina messaggi, auto-refresh, turnover messaggi · launcher Wayland/X11 |
- 
-### 🍓 Raspberry Pi <sub>(topic `raspy`)</sub>
+
+### Raspberry Pi <sub>(topic `raspy`)</sub>
 
 | Progetto | Descrizione |
 | --- | --- |
@@ -56,7 +65,7 @@
 | **[raspyVideo](https://github.com/debusercccp/raspyVideo)** | Face detection distribuito su due Raspberry Pi via TCP socket · OpenCV · display TFT |
 | **[retropie-pi5-spi-tft](https://github.com/debusercccp/retropie-pi5-spi-tft)** | Guida install/troubleshooting · RetroPie su Raspberry Pi 5 con display TFT SPI (`tft35a`, Debian Trixie) via Ponte X11 |
 
-### 🌀 Non-Utility
+### Non-Utility
 
 | Progetto | Descrizione |
 | --- | --- |
