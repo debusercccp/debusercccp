@@ -1,4 +1,4 @@
-<h1 align="center">Ciao, sono Rocco</h1>
+<h1 align="center">Rocco</h1>
 <h3 align="center"><code>noya</code> · Bioinformatica · Data Science · Sistemi Linux · Audio</h3>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 | Progetto | Descrizione |
 | --- | --- |
-| **[nulla](https://github.com/debusercccp/nulla)** | Implementazione in Rust, C e Python di uno script che non fa assolutamente nulla |
+| **[nulla](https://github.com/debusercccp/nulla)** | Implementazione in Rust, C e Python di uno script che non fa assolutamente nulla (lol) |
 
 ---
 
