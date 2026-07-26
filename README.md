@@ -54,6 +54,7 @@
 | **[raspyDisplay](https://github.com/debusercccp/raspyDisplay)** | Monitor di sistema su display TFT SPI · autorilevamento hardware · demone systemd |
 | **[raspyWeb](https://github.com/debusercccp/raspyWeb)** | Web server HTTPS asincrono in Rust su Raspberry Pi 5 · Axum + Caddy + DuckDNS · live → [raspyrust.duckdns.org](https://raspyrust.duckdns.org) |
 | **[raspyVideo](https://github.com/debusercccp/raspyVideo)** | Face detection distribuito su due Raspberry Pi via TCP socket · OpenCV · display TFT |
+| **[raspyCode](https://github.com/debusercccp/raspyCode)** | Local microservice agent (asyncio + event bus) for bioinformatics, featuring a Rich-based TUI frontend, tool-calling to bioCli/, and optional telemetry on a TFT display via framebuffer. |
 | **[retropie-pi5-spi-tft](https://github.com/debusercccp/retropie-pi5-spi-tft)** | Guida install/troubleshooting · RetroPie su Raspberry Pi 5 con display TFT SPI (`tft35a`, Debian Trixie) via Ponte X11 |
 
 ### Non-Utility
