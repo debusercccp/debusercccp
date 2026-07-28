@@ -1,4 +1,4 @@
-<1 align="center">Rocco</h1>
+<align="center">Rocco</h1>
 <h3 align="center"><code>noya</code> · Bioinformatica · Data Science · Sistemi Linux · Audio</h3>
 
 <p align="center">
