@@ -2,11 +2,6 @@
 <h3 align="center"><code>noya</code> · Bioinformatica · Data Science · Sistemi Linux · Audio</h3>
 
 <p align="center">
-  Sviluppo strumenti da terminale e librerie per l'analisi dati biologici,<br />
-  sistemi embedded su Raspberry Pi e software musicale generativo.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
