@@ -22,6 +22,7 @@
 | **[convFqFa](https://github.com/debusercccp/convFqFa)** | Conversione FASTQ → FASTA in Python e Rust, con batch processing Bash per dataset genomici di grandi dimensioni |
 | **[BioToolKit](https://github.com/debusercccp/BioToolKit)** | Implementazione Python dei principali algoritmi di *"Bioinformatics Algorithms: An Active Learning Approach"* (Compeau & Pevzner) |
 | **[PantherCLI](https://github.com/debusercccp/PantherTUI)** | Classificatore di famiglie proteiche PANTHER · rete neurale profonda (MLP, 15k+ classi) · TUI · ottimizzato per Raspberry Pi |
+| **[clew-hic](https://github.com/debusercccp/clew-hic)** | Analisi e visualizzazione locale di matrici Hi-C (`.mcool`, hg38/mm10) · P(s), compartimenti A/B, insulation, confini di TAD · circos trans · JupyterLab + HiGlass in Docker |
 
 ### Audio & Musica
 
