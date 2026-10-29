@@ -23,6 +23,7 @@
 | **[BioToolKit](https://github.com/debusercccp/BioToolKit)** | Implementazione Python dei principali algoritmi di *"Bioinformatics Algorithms: An Active Learning Approach"* (Compeau & Pevzner) |
 | **[PantherCLI](https://github.com/debusercccp/PantherTUI)** | Classificatore di famiglie proteiche PANTHER · rete neurale profonda (MLP, 15k+ classi) · TUI · ottimizzato per Raspberry Pi |
 | **[clew-hic](https://github.com/debusercccp/clew-hic)** | Analisi e visualizzazione locale di matrici Hi-C (`.mcool`, hg38/mm10) · P(s), compartimenti A/B, insulation, confini di TAD · circos trans · JupyterLab + HiGlass in Docker |
+| **[mcoolio](https://github.com/debusercccp/mcoolio)** | Visualizzatore TUI di mappe di contatto Hi-C (`.mcool` / `.cool`) · heatmap truecolor nel terminale · zoom, normalizzazioni ICE/KR/VC · traccia GC% da FASTA |
 
 ### Audio & Musica
 
